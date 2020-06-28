@@ -41,6 +41,9 @@ Apps (some call these "skills") that react to Rhasspy's intents.
 Note: Rhasspy's app ecosystem is still in an early stage.
 
 - [daniele-athome/hass-config](https://github.com/daniele-athome/hass-config) - AppDaemon apps for Rhasspy in a Home Assistant configuration, with an example of a countdown timer.
+- [hss-server](https://github.com/patrickjane/hss-server) - Hermes Skill Server for MQTT based voice assistants.
+- [hss-skill](https://github.com/patrickjane/hss-skill) - Python library to create voice apps based on hss-server.
+- [node-hss-skill](https://github.com/patrickjane/node-hss-skill) - Node.js library to create voice apps based on hss-server.
 - [rhasspy-hermes](https://github.com/rhasspy/rhasspy-hermes) - Python classes for Hermes protocol support in Rhasspy.
 - [rhasspy-hermes-app](https://rhasspy-hermes-app.readthedocs.io) - Rhasspy's official Python library to ease creating voice apps using the Hermes protocol.
 
