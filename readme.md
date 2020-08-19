@@ -21,7 +21,7 @@ Official resources published by the Rhasspy project.
 
 - [Documentation](https://rhasspy.readthedocs.io) - The official reference with installation instructions, tutorials, the whitepaper and more.
 - [Forum](https://community.rhasspy.org) - The place to get help, follow announcements, show your Rhasspy projects and discuss development.
-- [GitHub organization](https://github.com/rhasspy/) - The place to get the lastest code for all Rhasspy components, and open issues and pull requests.
+- [GitHub organization](https://github.com/rhasspy/) - The place to get the latest code for all Rhasspy components, and open issues and pull requests.
 
 ## Tutorials
 
@@ -33,6 +33,8 @@ Tutorials explaining how to set up Rhasspy and use it.
 - [DIY voice assistant](https://cstan.io/?p=11925&lang=en) - Four-part blog series with Rhasspy and Node-RED, showing you how to tell the time, the temperature (from the internet and a ESP32 temperature sensor) and bad jokes and playing internet radio.
 - [Coxprod DIY - Rhasspy](https://www.coxprod.org/domotique/category/domotique/rhasspy/) - Tutorials in French about various aspects of Rhasspy.
 - [Rhasspy In Depth - Sentences](https://www.youtube.com/watch?v=sWVl0ZoXZEo) - A video in which Rhasspy's developer demonstrates how you can specify your own custom voice commands.
+- [Zo krijg je stembesturing op de Raspberry Pi](https://computertotaal.nl/artikelen/internet-thuis/zo-krijg-je-stembesturing-op-de-raspberry-pi/) - A tutorial in Dutch about setting up Rhasspy and handling intents with Node-RED.
+- [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - A book about self-hosted home automation, dedicating the whole voice control chapter to Rhasspy.
 
 ## Apps and app platforms
 
