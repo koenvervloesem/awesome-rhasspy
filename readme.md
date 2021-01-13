@@ -55,7 +55,7 @@ Interesting projects that don't fall in any of the previous categories.
 
 - [HermesLedControl](https://github.com/project-alice-assistant/HermesLedControl) - Service to let the LEDs on your voice assistant hardware react to Hermes MQTT messages.
 - [JeeRhasspy](https://kiboost.github.io/jeedom_docs/plugins/jeerhasspy/fr_FR/) - Plugin to integrate Rhasspy with the home automation project Jeedom (French).
-- [Matrix-Voice-ESP32-MQTT-Audio-Streamer](https://github.com/Romkabouter/Matrix-Voice-ESP32-MQTT-Audio-Streamer) - Standalone Hermes MQTT audio streamer for the MATRIX Voice.
+- [ESP32-Rhasspy-Satellite](https://github.com/Romkabouter/ESP32-Rhasspy-Satellite) - Standalone Rhasspy satellite for ESP32 devices such as the MATRIX Voice and M5Stack ATOM ECHO.
 - [rhasspy-mobile-app](https://github.com/razzo04/rhasspy-mobile-app) - A mobile app for Android and iOS to interface with your Rhasspy installation.
 - [rhasspy-watch](https://github.com/cedcox/rhasspy-watch) - Tool for dynamic display of Rhasspy's Hermes MQTT messages with recording and query functionality.
 - [voice2json](https://voice2json.org/) - Rhasspy's sister project, a collection of command-line tools for offline speech and intent recognition on Linux.
