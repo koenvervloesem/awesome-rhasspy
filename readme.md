@@ -48,6 +48,7 @@ Note: Rhasspy's app ecosystem is still in an early stage.
 - [node-hss-skill](https://github.com/patrickjane/node-hss-skill) - Node.js library to create voice apps based on hss-server.
 - [rhasspy-hermes](https://github.com/rhasspy/rhasspy-hermes) - Python classes for Hermes protocol support in Rhasspy.
 - [rhasspy-hermes-app](https://rhasspy-hermes-app.readthedocs.io) - Rhasspy's official Python library to ease creating voice apps using the Hermes protocol.
+- [rhasspy_weather](https://github.com/Daenara/rhasspy_weather) - Python script that makes Rhasspy tell you the weather.
 
 ## Miscellaneous
 
