@@ -14,6 +14,7 @@ Note: Although I'm a Rhasspy contributor, this is not a list of projects or reso
 - [Tutorials](#tutorials)
 - [Home automation integrations](#home-automation-integrations)
 - [Apps and app platforms](#apps-and-app-platforms)
+- [Hardware designs](#hardware-designs)
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
 - [License](#license)
@@ -59,6 +60,14 @@ Note: Rhasspy's app ecosystem is still in an early stage.
 - [rhasspy-hermes](https://github.com/rhasspy/rhasspy-hermes) - Python classes for Hermes protocol support in Rhasspy.
 - [rhasspy-hermes-app](https://rhasspy-hermes-app.readthedocs.io) - Rhasspy's official Python library to ease creating voice apps using the Hermes protocol.
 - [rhasspy_weather](https://github.com/Daenara/rhasspy_weather) - Python script that makes Rhasspy tell you the weather.
+
+## Hardware designs
+
+3D-printable designs for Rhasspy hardware.
+
+- [Case Raspberry Pi 3a+ with Respeaker 2 Mic Pi Hat and Speaker](https://www.thingiverse.com/thing:4685595) - Case for Raspberry Pi 3A+ with ReSpeaker 2-Mics Pi HAT and an Adafruit 3W mono enclosed speaker.
+- [Rhasspy Case (Dot) with respeaker 2 Mic Array and Speaker](https://www.thingiverse.com/thing:4704214) - Case for Raspberry Pi Zero W with ReSpeaker 2 Mic Array and a small speaker, fitting in the hole of an Amazon Echo Dot.
+- [Rhasspy Satellite Case for Rpi3A+ & ReSpeaker 2-Mics Pi HAT & Speaker 3W](https://www.thingiverse.com/thing:4642517) - Case for Raspberry Pi 3A+ with ReSpeaker 2-Mics Pi HAT and an Adafruit 3W mono enclosed speaker.
 
 ## Miscellaneous
 
