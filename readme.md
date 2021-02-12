@@ -12,14 +12,17 @@ Note: Although I'm a Rhasspy contributor, this is not a list of projects or reso
 
 - [Official Rhasspy resources](#official-rhasspy-resources)
 - [Tutorials](#tutorials)
+- [Home automation integrations](#home-automation-integrations)
 - [Apps and app platforms](#apps-and-app-platforms)
 - [Miscellaneous](#miscellaneous)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Official Rhasspy resources
 
 Official resources published by the Rhasspy project.
 
-- [Documentation](https://rhasspy.readthedocs.io) - The official reference with installation instructions, tutorials, the whitepaper and more.
+- [Documentation](https://rhasspy.readthedocs.io) - The official reference with installation instructions, tutorials, the white paper and more.
 - [Forum](https://community.rhasspy.org) - The place to get help, follow announcements, show your Rhasspy projects and discuss development.
 - [GitHub organization](https://github.com/rhasspy/) - The place to get the latest code for all Rhasspy components, and open issues and pull requests.
 
@@ -35,6 +38,13 @@ Tutorials explaining how to set up Rhasspy and use it.
 - [Rhasspy In Depth - Sentences](https://www.youtube.com/watch?v=sWVl0ZoXZEo) - A video in which Rhasspy's developer demonstrates how you can specify your own custom voice commands.
 - [Zo krijg je stembesturing op de Raspberry Pi](https://computertotaal.nl/artikelen/internet-thuis/zo-krijg-je-stembesturing-op-de-raspberry-pi/) - A tutorial in Dutch about setting up Rhasspy and handling intents with Node-RED.
 - [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - A book about self-hosted home automation, dedicating the whole voice control chapter to Rhasspy.
+
+## Home automation integrations
+
+Projects to integrate Rhasspy with various home automation platforms.
+
+- [JeeRhasspy](https://kiboost.github.io/jeedom_docs/plugins/jeerhasspy/fr_FR/) - Plugin to integrate Rhasspy with the home automation project Jeedom (French).
+- [Rhasspy-FHEM](https://github.com/drhirn/fhem-rhasspy) - A module to integrate Rhasspy with the home automation platform FHEM using MQTT.
 
 ## Apps and app platforms
 
@@ -55,7 +65,6 @@ Note: Rhasspy's app ecosystem is still in an early stage.
 Interesting projects that don't fall in any of the previous categories.
 
 - [HermesLedControl](https://github.com/project-alice-assistant/HermesLedControl) - Service to let the LEDs on your voice assistant hardware react to Hermes MQTT messages.
-- [JeeRhasspy](https://kiboost.github.io/jeedom_docs/plugins/jeerhasspy/fr_FR/) - Plugin to integrate Rhasspy with the home automation project Jeedom (French).
 - [ESP32-Rhasspy-Satellite](https://github.com/Romkabouter/ESP32-Rhasspy-Satellite) - Standalone Rhasspy satellite for ESP32 devices such as the MATRIX Voice and M5Stack ATOM ECHO.
 - [rhasspy-mobile-app](https://github.com/razzo04/rhasspy-mobile-app) - A mobile app for Android and iOS to interface with your Rhasspy installation.
 - [rhasspy-watch](https://github.com/cedcox/rhasspy-watch) - Tool for dynamic display of Rhasspy's Hermes MQTT messages with recording and query functionality.
