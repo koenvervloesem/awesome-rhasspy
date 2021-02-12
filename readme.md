@@ -14,6 +14,7 @@ Note: Although I'm a Rhasspy contributor, this is not a list of projects or reso
 - [Tutorials](#tutorials)
 - [Home automation integrations](#home-automation-integrations)
 - [Apps and app platforms](#apps-and-app-platforms)
+- [Custom satellites](#custom-satellites)
 - [Hardware designs](#hardware-designs)
 - [Miscellaneous](#miscellaneous)
 - [Contribute](#contribute)
@@ -61,6 +62,13 @@ Note: Rhasspy's app ecosystem is still in an early stage.
 - [rhasspy-hermes-app](https://rhasspy-hermes-app.readthedocs.io) - Rhasspy's official Python library to ease creating voice apps using the Hermes protocol.
 - [rhasspy_weather](https://github.com/Daenara/rhasspy_weather) - Python script that makes Rhasspy tell you the weather.
 
+## Custom satellites
+
+Custom Rhasspy satellite software for specific hardware.
+
+- [ESP32-Rhasspy-Satellite](https://github.com/Romkabouter/ESP32-Rhasspy-Satellite) - Standalone Rhasspy satellite for ESP32 devices such as the MATRIX Voice, M5Stack ATOM Echo and ESP32 Audio Kit.
+- [rhasspy-mobile-app](https://github.com/razzo04/rhasspy-mobile-app) - A mobile app for Android and iOS to interface with your Rhasspy installation.
+
 ## Hardware designs
 
 3D-printable designs for Rhasspy hardware.
@@ -74,8 +82,6 @@ Note: Rhasspy's app ecosystem is still in an early stage.
 Interesting projects that don't fall in any of the previous categories.
 
 - [HermesLedControl](https://github.com/project-alice-assistant/HermesLedControl) - Service to let the LEDs on your voice assistant hardware react to Hermes MQTT messages.
-- [ESP32-Rhasspy-Satellite](https://github.com/Romkabouter/ESP32-Rhasspy-Satellite) - Standalone Rhasspy satellite for ESP32 devices such as the MATRIX Voice and M5Stack ATOM ECHO.
-- [rhasspy-mobile-app](https://github.com/razzo04/rhasspy-mobile-app) - A mobile app for Android and iOS to interface with your Rhasspy installation.
 - [rhasspy-watch](https://github.com/cedcox/rhasspy-watch) - Tool for dynamic display of Rhasspy's Hermes MQTT messages with recording and query functionality.
 - [voice2json](https://voice2json.org/) - Rhasspy's sister project, a collection of command-line tools for offline speech and intent recognition on Linux.
 
