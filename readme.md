@@ -40,6 +40,7 @@ Tutorials explaining how to set up Rhasspy and use it.
 - [Rhasspy In Depth - Sentences](https://www.youtube.com/watch?v=sWVl0ZoXZEo) - A video in which Rhasspy's developer demonstrates how you can specify your own custom voice commands.
 - [Zo krijg je stembesturing op de Raspberry Pi](https://computertotaal.nl/artikelen/internet-thuis/zo-krijg-je-stembesturing-op-de-raspberry-pi/) - A tutorial in Dutch about setting up Rhasspy and handling intents with Node-RED.
 - [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - A book about self-hosted home automation, dedicating the whole voice control chapter to Rhasspy.
+- [Rhasspy Assistant Tips n Tricks](https://kiboost.github.io/jeedom_docs/other/Rhasspy/) - A page  with some interesting tips and tricks for Rhasspy, including common commands, third-party integrations and audio settings.
 
 ## Home automation integrations
 
