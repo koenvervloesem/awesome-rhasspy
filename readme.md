@@ -46,8 +46,8 @@ Tutorials explaining how to set up Rhasspy and use it.
 
 Projects to integrate Rhasspy with various home automation platforms.
 
+- [FHEM-rhasspy](https://github.com/fhem/fhem-rhasspy) - A module to integrate Rhasspy with the home automation platform FHEM using MQTT.
 - [JeeRhasspy](https://kiboost.github.io/jeedom_docs/plugins/jeerhasspy/fr_FR/) - Plugin to integrate Rhasspy with the home automation project Jeedom (French).
-- [Rhasspy-FHEM](https://github.com/drhirn/fhem-rhasspy) - A module to integrate Rhasspy with the home automation platform FHEM using MQTT.
 
 ## Apps and app platforms
 
