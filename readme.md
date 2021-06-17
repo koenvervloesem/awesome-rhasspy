@@ -83,6 +83,7 @@ Custom Rhasspy satellite software for specific hardware.
 Interesting projects that don't fall in any of the previous categories.
 
 - [HermesLedControl](https://github.com/project-alice-assistant/HermesLedControl) - Service to let the LEDs on your voice assistant hardware react to Hermes MQTT messages.
+- [rhasspy_save_wakeword](https://github.com/Daenara/rhasspy_save_wakeword) - Tool to collect wake word samples from the Hermes MQTT audio stream for custom model training.
 - [rhasspy-watch](https://github.com/cedcox/rhasspy-watch) - Tool for dynamic display of Rhasspy's Hermes MQTT messages with recording and query functionality.
 - [voice2json](https://voice2json.org/) - Rhasspy's sister project, a collection of command-line tools for offline speech and intent recognition on Linux.
 
